@@ -1,0 +1,21 @@
+accuweather api code 2858823
+
+check this http://dataservice.accuweather.com/currentconditions/v1/2858823?apikey=WNqFA0Pyr0YRhHILQ3iKeflcPfomqzKw&details=true
+WeatherText
+HasPrecipitation
+RelativeHumidity
+UVIndex	
+UVIndexText
+CloudCover
+Temperature_Metric_Value
+RealFeelTemperature_Metric_Value
+RealFeelTemperature_Metric_Phrase
+DewPoint_Metric_Value
+Wind_Direction_Degrees	
+Wind_Direction_Localized
+Wind_Speed_Metric_Value
+Visibility_Metric_Value
+Pressure_Metric_Value
+PrecipitationSummary_Past24Hours_Metric_Value
+TemperatureSummary_Past24HourRange_Minimum_Metric_Value
+TemperatureSummary_Past24HourRange_Maximum_Metric_Value
